@@ -1,4 +1,19 @@
-## Hi there 👋
+<h3 align="left">Hi there 👋, I'm Charlotte</h3>
+<h4 align="left">A Full-Stack Developer by day ☼ and a designer by heart ♡</h4>
+
+---
+
+### 🌱 Currently Exploring  
+- **Interactive web animations & digital art in UI** ✨ 
+- **Fashion-tech & creative coding** 💅🏼👩🏻‍💻 
+- **Advanced system design & scalability** ⚙️ 
+
+### 🛠️ Languages & Tools  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=py,js,cs,dotnet,mysql,supabase,sqlite,r,html,css,tailwind,d3,flask,jquery,figma,vercel,heroku,postman,git,github,linux,bash,azure" />  
+</p>  
+
+
 
 <!--
 **clin1230/clin1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
