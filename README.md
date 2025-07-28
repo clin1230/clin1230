@@ -1,8 +1,8 @@
-<!--
-
 <h3 align="left">Hi there 👋, I'm Charlotte</h3>
-<h4 align="left">A Full-Stack Developer by day ☼ and a designer by heart ♡</h4>
+<h4 align="left">I am a New-York based full-stack developer </h4>
 
+
+<!--
 ### 🛠️ Languages & Tools  
 <p align="left">  
   <img src="https://skillicons.dev/icons?i=py,js,cs,dotnet,mysql,supabase,sqlite,r,html,css,tailwind,d3,flask,jquery,figma,vercel,heroku,postman,git,github,linux,bash,azure" />  
